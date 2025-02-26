@@ -1,0 +1,10 @@
+print('Hello, Python!')
+
+name = input("Введіть своє ім'я: ")
+print(f"Привіт {name}!")
+
+num1 = float(input("Введіть перше число: "))
+num2 = float(input("Введіть друге число: "))
+result_sum = num1 + num2
+
+print(f"Ваша сумма чисел: {result_sum}")
